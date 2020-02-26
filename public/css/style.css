@@ -1,0 +1,73 @@
+
+.table,body {
+    font-size: 14px;
+    color: #72777a;
+    letter-spacing: .2px;
+    overflow-x: hidden;
+}
+body,h1,h2,h3,h4,h5,h6{
+    font-family: Lato,-apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Arial,sans-serif;
+    line-height: 1.5;
+}
+.h1, h1 {
+    font-size: 2.1875rem;
+}
+.h2, h2 {
+    font-size: 1.75rem;
+}
+.h3, h3 {
+    font-size: 1.53125rem;
+}
+.h4, h4 {
+    font-size: 1.3125rem;
+}
+.h5, h5 {
+    font-size: 1.09375rem;
+}
+
+.card-header{
+    background: #fff;
+    border-bottom: 0;
+}
+.card-body .card{
+    border:0;
+}
+.card-body .card-header{
+    padding: .5rem;
+}
+.card-body .card .card-body{
+    padding:0;
+}
+
+.grad {
+    background-image: linear-gradient(-90deg, #673ab7 , #F65058);
+    color:#fff;
+}
+.redyellow{
+    background-image: linear-gradient(-90deg, #FFC915, #F65058 );
+    color:#fff;
+}
+.c-blue-500, .cH-blue-500:hover {
+    color: #2196f3!important;
+}
+.c-brown-500, .cH-brown-500:hover {
+    color: #795548!important;
+}
+.c-deep-orange-500, .cH-deep-orange-500:hover {
+    color: #ff5722!important;
+}
+.c-deep-purple-500, .cH-deep-purple-500:hover {
+    color: #673ab7!important;
+}
+.c-indigo-500, .cH-indigo-500:hover {
+    color: #3f51b5!important;
+}
+.c-pink-500, .cH-pink-500:hover {
+    color: #e91e63!important;
+}
+.c-red-500, .cH-red-500:hover {
+    color: #f44336!important;
+}
+.c-light-blue-500, .cH-light-blue-500:hover {
+    color: #03a9f4!important;
+}
